@@ -3,19 +3,6 @@
 ### **Project Overview**
 This project aims to segment customers into different groups based on their purchasing behavior and demographics using unsupervised learning techniques. Customer segmentation helps businesses understand their target audience better, enabling them to tailor marketing strategies, improve product offerings, and optimize customer experiences.
 
-### **Key Features**
-- Implements **K-Means Clustering** to group customers based on their **Age**, **Annual Income**, and **Spending Score**.
-- Uses **Elbow Method** to find the optimal number of clusters.
-- Visualizes the clusters to interpret customer segments clearly.
-- Provides **insights** about different customer groups and how businesses can target them.
-
-### **Technologies Used**
-- **Python**: Core language used for data analysis and machine learning.
-- **Pandas**: Data manipulation and analysis.
-- **Scikit-learn**: Machine learning algorithms, including K-Means clustering.
-- **Matplotlib & Seaborn**: Data visualization libraries.
-- **NumPy**: Numerical computing for efficient calculations.
-
 ### **Project Structure**
 ```bash
 .
@@ -26,15 +13,7 @@ This project aims to segment customers into different groups based on their purc
 └── README.md                  # This file with project details and instructions.
 ```
 
-### **Dataset**
-The dataset used is the **Mall Customer Segmentation Data**, which contains the following features:
-- **CustomerID**: Unique identifier for each customer (not used in analysis).
-- **Gender**: Gender of the customer (Male = 0, Female = 1).
-- **Age**: Age of the customer.
-- **Annual Income (k$)**: The customer’s annual income (in thousands of dollars).
-- **Spending Score (1-100)**: A score assigned by the mall based on the customer’s behavior and spending nature.
-
-### **How to Run the Project**
+### **To Run the Project**
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/customer-segmentation-ml.git
