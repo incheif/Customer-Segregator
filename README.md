@@ -3,16 +3,6 @@
 ### **Project Overview**
 This project aims to segment customers into different groups based on their purchasing behavior and demographics using unsupervised learning techniques. Customer segmentation helps businesses understand their target audience better, enabling them to tailor marketing strategies, improve product offerings, and optimize customer experiences.
 
-### **Project Structure**
-```bash
-.
-├── dataset/
-│   └── Mall_Customers.csv     # The dataset used for customer segmentation.
-├── src/
-│   └── customer_segmentation.ipynb  # Jupyter Notebook with the code for analysis and clustering.
-└── README.md                  # This file with project details and instructions.
-```
-
 ### **To Run the Project**
 1. **Clone the Repository**:
    ```bash
